@@ -1,0 +1,5 @@
+name "renamer"
+description "Remove the same string from all filenames in folder"
+authors "johnik"
+copyright "Copyright © 2023, johnik"
+license "free"
